@@ -1,4 +1,1 @@
-layout: page
-title: "BCAM7"
-permalink: /BCAM7
-#BCAM7 là gì?
+[Main page] (https://github.com/minhmocmeo/minhmocmeo.github.io/blob/main/README.md)
