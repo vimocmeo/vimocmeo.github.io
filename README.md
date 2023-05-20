@@ -1,1 +1,3 @@
-# [BCAM7](https://github.com/minhmocmeo/minhmocmeo.github.io/blob/main/BCAM7.md)
+## Table of contents
+1. [BCAM7](https://minhmocmeo.github.io/BCAM7)
+---
