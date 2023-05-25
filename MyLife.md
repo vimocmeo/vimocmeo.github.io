@@ -26,7 +26,7 @@ Mình theo đuổi sự minh bạch.
 Có câu "Thẳng thắn thật thà thường thua thiệt."  
 Nhưng mình nghĩ đó là do thẳng thắn thật thà nửa vời thôi.
 
-###Các dự án open source đang theo dõi:  
+### Các dự án open source đang theo dõi:  
 [Github](https://github.com/github)  
 [RISC-V](https://github.com/riscv)  
 [Linux](https://github.com/torvalds/linux)  
