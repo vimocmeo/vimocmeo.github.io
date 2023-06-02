@@ -31,3 +31,9 @@ Nhưng mình nghĩ đó là do thẳng thắn thật thà nửa vời thôi.
 [RISC-V](https://github.com/riscv)  
 [Linux](https://github.com/torvalds/linux)  
 [iceoryx](https://github.com/eclipse-iceoryx/iceoryx)  
+
+### Các việc mình sẽ làm khi không biết làm gì khác... 
+* Học duolingo
+* Chơi nhạc cụ
+### Thức ăn tinh thần sẽ gồm những gì?
+* Truyện thì nên đọc bằng ngôn ngữ gốc để đỡ bị nghiện, mà lỡ có nghiện thì cũng có ích chút.
