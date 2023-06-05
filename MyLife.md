@@ -9,9 +9,10 @@ Nhưng cũng phải tránh việc bị tập trung quá mức ví dụ như lúc
 Cần phải có hai thứ đó là **Nhịp điệu** và **Kế hoạch**.
 
 ## Nhịp điệu
-5 giờ sáng thức dậy, tập thể dục buổi sáng, rồi tắm rửa, ăn sáng.  
-9 giờ tối không sử dụng các thiết bị điện tử nữa.  
-10 giờ tối đi ngủ.
+05:00 thức dậy, tập thể dục buổi sáng, rồi tắm rửa, ăn sáng.  
+19:30 thiền.  
+21:00 không sử dụng các thiết bị điện tử nữa.  
+22:00 đi ngủ.  
 
 ## Những điều hình thành thế giới quan của mình
 * Đảng cộng sản Việt Nam  
