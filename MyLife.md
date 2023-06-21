@@ -1,18 +1,32 @@
 # Cuộc đời Mốc Meo
-## Tu dưỡng bản thân
-Làm mọi việc với chánh niệm.
-
-Giữ tâm trí không bị chạy lung tung ví dụ như đang viết nhật ký lại nghĩ đến công việc. Cần giữ tâm tỉnh thức để kéo ý thức về việc đang làm.
-
-Nhưng cũng phải tránh việc bị tập trung quá mức ví dụ như lúc chơi game, sẽ không để ý gì đến những thứ xung quanh.
-
-Cần phải có hai thứ đó là **Nhịp điệu** và **Kế hoạch**.
-
-## Nhịp điệu
-05:00 thức dậy, tập thể dục buổi sáng, rồi tắm rửa, ăn sáng.  
-19:30 thiền.  
-21:00 không sử dụng các thiết bị điện tử nữa.  
-22:00 đi ngủ.  
+Đạo của mình được kế thừa từ đây xuviway.github.io  
+## Thực tập chánh niệm
+Chánh niệm trong từng khoảnh khắc.  
+Từng khoảnh khắc đều biết được điều mình cần làm và nên làm.  
+Vậy mình cần biết lúc nào mình cần làm gì.  
+Điều này chia thành 3 phần:
+1. Các việc để có nhịp sinh hoạt điều độ.  
+05:00 Giờ dậy bơi đạp chạy. Về rồi học tiếng Trung rồi dọn dẹp nhà cửa.  
+22:00 Đi ngủ  
+2. Các việc đảm bảo nhu cầu sinh tồn tại thời điểm đó.  
+*Nhu cầu sinh tồn là đảm bảo thu nhập hàng năm gấp đôi so với mức lương cơ bản. Cụ thể là khoảng 130 triệu/năm.*  
+@ Thu nhập thụ động  
+@ Dạy  
+@ Du lịch  
+@ Dev  
+3. Các việc khác dựa theo ưu tiên từ cao đến thấp:  
+Nghiên cứu việc nuôi dạy con.  
+Nghiên cứu việc giáo dục thế hệ tiếp theo.  
+Quan tâm đến thế hệ tiếp theo  
+Quan tâm đến thế hệ trước  
+XuVi  
+Sáng tác nhạc  
+Viết sách  
+Vẽ tranh.  
+Đọc lấy tư liệu  
+Thiền  
+Luyện võ.  
+Học ngoại ngữ.  
 
 ## Những điều hình thành thế giới quan của mình
 * Đảng cộng sản Việt Nam  
