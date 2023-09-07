@@ -1,7 +1,7 @@
 # Routine
 *Routine should be like a religious rite.*  
 
-05:00: Wake up then boil a kettle of water. After that you water the plants then make a cup of milk coffee. While waiting for the coffee, you look around the kitchen and plan for what you will eat today. You can do some pushups if you still have time until the coffee finish. But this is optional. Finally, open your laptop, learn some new words, do typing exercise and adjust your todo list.  
+05:00: Wake up, open podcast, then boil a kettle of water. After that you water the plants then make a cup of milk coffee. While waiting for the coffee, you look around the kitchen and plan for what you will eat today. You can do some pushups if you still have time until the coffee finish. But this is optional. Finally, open your laptop, learn some new words, do typing exercise and adjust your todo list.  
 
 06:00: Go to the market or prepare the meal base on your plan. You can have breakfast right after you finish cooking.  
 
@@ -23,6 +23,6 @@
 
 19:00: Work.  
 
-21:00: Stay away from electronic device. You can read book, take care your wife and family.  
+21:00: Write your dairy then stay away from electronic device. You can read book, take care your wife and family.  
 
 22:00: Sleep.
