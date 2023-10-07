@@ -1,0 +1,9 @@
+/* Tablets & under */
+@media (max-width: 768px) {
+  /* body {
+    display: none;
+  } */
+  .grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}

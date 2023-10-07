@@ -1,0 +1,15 @@
+/* Mobile */
+@media (max-width: 567px) {
+  /* body {
+    display: none;
+  } */
+  .grid {
+    grid-template-columns: 1fr;
+  }
+  /* .flex {
+    flex-wrap: wrap;
+  } */
+  /* nav > .container {
+    display: block;
+  } */
+}
