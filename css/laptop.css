@@ -125,9 +125,9 @@ img {
 }
 
 /* Section certificate */
-#certificate .card {
+.card {
   transition: transform 0.2s ease-in;
 }
-#certificate .card:hover {
+.card:hover {
   transform: translateY(-15px);
 }
