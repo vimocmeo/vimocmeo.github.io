@@ -2,9 +2,8 @@
 title: Minh Mốc Meo
 description: Đi để đi
 baseurl: ""
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs
 url: https://minh.xuvi.vn
-# url: https://just-the-docs.github.io
 language: vi
 author:
   name: Minh Mốc Meo
