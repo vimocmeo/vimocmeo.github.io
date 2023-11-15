@@ -15,6 +15,12 @@ jobs:
           repository: minhxuvi/minhxuvi.wiki
           path: minhxuvi.wiki
 
+      - name: Checkout minhxuvi
+        uses: actions/checkout@v4
+        with:
+          repository: minhxuvi/minhxuvi
+          path: minhxuvi
+
       - name: Checkout github page
         uses: actions/checkout@v4
         with:
@@ -24,6 +30,7 @@ jobs:
       - name: Copy wiki to main repository
         run: |
           cp -r minhxuvi.wiki/*.md minhxuvi.github.io
+          cp -r minhxuvi/* minhxuvi.github.io
 
       - name: Setup Git
         run: |
