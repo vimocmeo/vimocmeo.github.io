@@ -31,6 +31,8 @@ jobs:
           git config --global user.email "action@github.com"
 
       - name: Push to GitHub Pages
+        env:
+          ACCESS_TOKEN: ${{ secrets.PAT }}
         run: |
           cd minhxuvi.github.io
           git add .
