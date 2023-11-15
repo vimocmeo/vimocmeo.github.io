@@ -1,9 +1,10 @@
 # Jekyll configuration
 title: Minh Mốc Meo
 description: Đi để đi
-url: https://minh.xuvi.vn
 baseurl: ""
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+url: https://minh.xuvi.vn
+# url: https://just-the-docs.github.io
 language: vi
 author:
   name: Minh Mốc Meo
