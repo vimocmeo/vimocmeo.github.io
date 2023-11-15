@@ -1,0 +1,26 @@
+name: Publish Wiki to GitHub Pages
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # runs every 30 minutes
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout wiki
+        uses: actions/checkout@v2
+        with:
+          repository: minhxuvi/minhxuvi.wiki
+          path: wiki
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+
+      - name: Push to GitHub Pages
+        run: |
+          git add .
+          git commit -m "Update GitHub Pages"
+          git push
