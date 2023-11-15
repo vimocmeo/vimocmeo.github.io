@@ -9,6 +9,17 @@ author:
   name: Minh Mốc Meo
   email: minhxuvi@gmail.com
   url: https://minh.xuvi.vn
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/avatar-kuzan.png"
+# Aux links for the upper right navigation
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/just-the-docs/just-the-docs"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
