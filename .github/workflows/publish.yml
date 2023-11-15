@@ -13,10 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout wiki
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: minhxuvi/minhxuvi.wiki
           path: wiki
+
+      - name: Copy wiki to main repository
+        run: |
+          mkdir minhxuvi.github.io
+          cp -r wiki/* minhxuvi.github.io
 
       - name: Setup Git
         run: |
@@ -25,16 +30,7 @@ jobs:
 
       - name: Push to GitHub Pages
         run: |
-          cd wiki
-          ls -la
-          # git init
-          # git remote rm origin
-          # git remote add origin https://github.com/minhxuvi/minhxuvi.wiki.git
-          # git config user.name "GitHub Action"
-          # git config user.email "action@github.com"
-          # git checkout -b main
-          # git add .
-          # git commit -m "Update GitHub Pages"
-          # git push --set-upstream origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+          cd minhxuvi.github.io
+          git add .
+          git commit -m "Update wiki - $(date +%Y-%m-%d)"
+          git push https://github.com/minhxuvi/minhxuvi.github.io.git HEAD:main
