@@ -2,7 +2,7 @@ name: Publish Wiki to GitHub Pages
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # runs every 30 minutes
+    - cron: '0 0 * * *' # runs every day at midnight
   workflow_dispatch: # allows manual triggering of the workflow
   push:
     branches:
@@ -26,14 +26,15 @@ jobs:
       - name: Push to GitHub Pages
         run: |
           cd wiki
-          git init
-          git remote rm origin
-          git remote add origin https://github.com/minhxuvi/minhxuvi.wiki.git
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git checkout -b main
-          git add .
-          git commit -m "Update GitHub Pages"
-          git push --set-upstream origin main
+          ls -la
+          # git init
+          # git remote rm origin
+          # git remote add origin https://github.com/minhxuvi/minhxuvi.wiki.git
+          # git config user.name "GitHub Action"
+          # git config user.email "action@github.com"
+          # git checkout -b main
+          # git add .
+          # git commit -m "Update GitHub Pages"
+          # git push --set-upstream origin main
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
