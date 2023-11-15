@@ -1,4 +1,4 @@
-name: Publish minhxuvi.wiki to GitHub Pages
+name: Publish from minhxuvi.wiki - $(date +%Y-%m-%d)
 
 on:
   schedule:
