@@ -9,8 +9,6 @@ author:
   name: Minh Mốc Meo
   email: minhxuvi@gmail.com
   url: https://minh.xuvi.vn
-footer:
-  text: "© {{ site.time | date: '%Y' }} <a href='{{ site.url }}'>Minh Mốc Meo</a>."
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
