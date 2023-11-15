@@ -32,9 +32,9 @@ jobs:
 
       - name: Push to GitHub Pages
         env:
-          ACCESS_TOKEN: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           cd minhxuvi.github.io
           git add .
           git commit -m "Update wiki - $(date +%Y-%m-%d)"
-          git push https://${ACCESS_TOKEN}@github.com/minhxuvi/minhxuvi.github.io.git HEAD:main
+          git push https://${GITHUB_TOKEN}@github.com/minhxuvi/minhxuvi.github.io.git HEAD:main
