@@ -1,4 +1,4 @@
-name: Publish Wiki to GitHub Pages
+name: Publish minhxuvi.wiki to GitHub Pages
 
 on:
   schedule:
@@ -13,13 +13,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: minhxuvi/minhxuvi.wiki
-          # path: minhxuvi.wiki
+          path: minhxuvi.wiki
 
       - name: Checkout github page
         uses: actions/checkout@v4
         with:
           repository: minhxuvi/minhxuvi.github.io
-          # path: minhxuvi.github.io
+          path: minhxuvi.github.io
 
       - name: Copy wiki to main repository
         run: |
