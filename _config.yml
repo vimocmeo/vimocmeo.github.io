@@ -3,7 +3,7 @@ title: Minh Mốc Meo
 description: Đi để đi
 url: https://minh.xuvi.vn
 baseurl: ""
-theme: jekyll-theme-minimal
+theme: just-the-docs
 language: vi
 author:
   name: Minh Mốc Meo
