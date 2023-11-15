@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -22,4 +22,32 @@
       <p>&copy; {{ site.author }} {{ "now" | date: "%Y" }}</p>
     </footer>
   </body>
-</html>
+  <ul>
+{% for page in site.pages %}
+    {% if page.url contains '.md' %}
+    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+</head>
+
+<body>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>&copy; {{ site.author }} {{ "now" | date: "%Y" }}</p>
+  </footer>
+
+</body>
+
+</html> -->
