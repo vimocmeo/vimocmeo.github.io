@@ -1,4 +1,4 @@
-name: Publish from minhxuvi.wiki - $(date +%Y-%m-%d)
+name: "Publish from minhxuvi.wiki - $(date +%Y-%m-%d)"
 
 on:
   schedule:
