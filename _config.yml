@@ -3,7 +3,17 @@ title: Minh Mốc Meo
 description: Đi để đi
 url: https://minh.xuvi.vn
 baseurl: ""
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+language: vi
+author:
+  name: Minh Mốc Meo
+  email: minhxuvi@gmail.com
+  url: https://minh.xuvi.vn
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+# footer:
+#   text: "© {{ site.time | date: '%Y' }} <a href='{{ site.url }}'>Minh Mốc Meo</a>.""
+
