@@ -1,0 +1,1 @@
+# Create github action to publish minhxuvi.wiki to github page minhxuvi.github.io
