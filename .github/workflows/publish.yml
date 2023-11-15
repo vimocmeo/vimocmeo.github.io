@@ -33,9 +33,6 @@ jobs:
       - name: Push to GitHub Pages
         run: |
           cd minhxuvi.github.io
-          ls -la
-          cd ../
-          ls -la
-          # git add .
-          # git commit -m "Update wiki - $(date +%Y-%m-%d)"
-          # git push https://github.com/minhxuvi/minhxuvi.github.io.git HEAD:main
+          git add .
+          git commit -m "Update wiki - $(date +%Y-%m-%d)"
+          git push https://github.com/minhxuvi/minhxuvi.github.io.git HEAD:main
