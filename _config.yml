@@ -1,0 +1,9 @@
+# Jekyll configuration
+title: Minh Mốc Meo
+description: Đi để đi
+url: https://minh.xuvi.com
+baseurl: ""
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
