@@ -1,7 +1,7 @@
 # Jekyll configuration
 title: Minh Mốc Meo
 description: Đi để đi
-url: https://minh.xuvi.com
+url: https://minh.xuvi.vn
 baseurl: ""
 theme: jekyll-theme-cayman
 plugins:
