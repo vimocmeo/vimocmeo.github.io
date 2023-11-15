@@ -2,11 +2,8 @@ name: Publish Wiki to GitHub Pages
 
 on:
   schedule:
-    - cron: '0 0 * * *' # runs every day at midnight
+    - cron: "0 0 * * *" # runs every day at midnight
   workflow_dispatch: # allows manual triggering of the workflow
-  push:
-    branches:
-      - main
 
 jobs:
   update:
@@ -18,10 +15,11 @@ jobs:
           repository: minhxuvi/minhxuvi.wiki
           path: wiki
 
-      - name: Copy wiki to main repository
-        run: |
-          mkdir minhxuvi.github.io
-          cp -r wiki/* minhxuvi.github.io
+      - name: Checkout github page
+        uses: actions/checkout@v4
+        with:
+          repository: minhxuvi/minhxuvi.github.io
+          path: minhxuvi.github.io
 
       - name: Setup Git
         run: |
