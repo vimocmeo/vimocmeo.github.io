@@ -9,12 +9,6 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout wiki
-        uses: actions/checkout@v4
-        with:
-          repository: minhxuvi/minhxuvi.wiki
-          path: minhxuvi.wiki
-
       - name: Checkout minhxuvi
         uses: actions/checkout@v4
         with:
@@ -25,11 +19,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: minhxuvi/minhxuvi.github.io
+          submodules: 'recursive'
           path: minhxuvi.github.io
 
       - name: Copy wiki to main repository
         run: |
-          cp -r minhxuvi.wiki/*.md minhxuvi.github.io
           cp -r minhxuvi/* minhxuvi.github.io
 
       - name: Setup Git
@@ -42,6 +36,11 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           cd minhxuvi.github.io
+          git submodule update --init --recursive
+          cd wiki
+          git fetch
+          git checkout origin/master
+          cd ..
           git add .
           git commit -m "Update wiki - $(date +%Y-%m-%d)"
           git push https://${GITHUB_TOKEN}@github.com/minhxuvi/minhxuvi.github.io.git HEAD:main
