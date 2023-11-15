@@ -1,4 +1,3 @@
-
 # 20/05/2023 Ngày sinh nhật tuổi 29
 Học được bài học về trách nhiệm. Bắt đầu thực tập nghiêm túc về nhịp điệu và chánh niệm. Sẽ là một con đường dài...
 

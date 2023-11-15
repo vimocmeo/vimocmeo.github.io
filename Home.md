@@ -1,4 +1,4 @@
-Tôi là Minh Mốc Meo và đây là cuộc sống của tôi!
+# Tôi là Minh Mốc Meo và đây là cuộc sống của tôi!
 
 - [My life](https://minhxuvi.github.io/note/MyLife) [[git]](https://github.com/minhxuvi/minhxuvi/wiki/MyLife)
 - [Routine](https://minhxuvi.github.io/note/Routine) [[git]](https://github.com/minhxuvi/minhxuvi/wiki/Routine)

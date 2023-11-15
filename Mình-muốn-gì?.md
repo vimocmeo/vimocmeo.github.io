@@ -1,3 +1,4 @@
+# Mình muốn gì?
 _Mình là một người bố, mình thích lang thang khắp nơi và muốn tự động hóa mọi thứ._
 # Vậy mình sẽ làm như thế nào?
 Mình sẽ xây dựng một tổ chức từ A-Z, ứng dụng các công nghệ mới nhất.
