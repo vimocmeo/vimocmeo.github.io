@@ -3,9 +3,9 @@ name: "Publish from minhxuvi.wiki"
 on:
   schedule:
     - cron: "0 0 * * *" # runs every day at midnight
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   workflow_dispatch: # allows manual triggering of the workflow
 
 jobs:
