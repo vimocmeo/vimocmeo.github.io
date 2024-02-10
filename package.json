@@ -1,5 +1,5 @@
 {
-  "name": "dapxexuyenviet",
+  "name": "minhxuvi",
   "version": "0.0.1",
   "description": "Đạp xe xuyên Việt",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dapxexuyenviet/dapxexuyenviet.github.io.git"
+    "url": "git+https://github.com/minhxuvi/minhxuvi.github.io.git"
   },
   "author": "Minh Mốc Meo <minh@xuvi.vn>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dapxexuyenviet/dapxexuyenviet.github.io/issues"
+    "url": "https://github.com/minhxuvi/minhxuvi.github.io/issues"
   },
-  "homepage": "https://github.com/dapxexuyenviet/dapxexuyenviet.github.io#readme",
+  "homepage": "https://github.com/minhxuvi/minhxuvi.github.io#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
