@@ -24,9 +24,8 @@ const config: DocsThemeConfig = {
   },
   head: (
     <>
-      <html lang="vi"></html>
       <meta name="msapplication-TileColor" content="#fff" />
-      <meta http-equiv="Content-Language" content="vi" />
+      <meta httpEquiv="Content-Language" content="vi" />
       <meta
         name="description"
         content="Minh Mốc Meo: Father, Engineer, Wanderer"
