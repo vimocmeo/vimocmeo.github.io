@@ -6,12 +6,15 @@ const config: DocsThemeConfig = {
   project: {
     link: "https://github.com/minhxuvi/minhxuvi.github.io",
   },
-  chat: {
-    link: "https://discord.com",
-  },
-  docsRepositoryBase: "https://github.com/minhxuvi/minhxuvi.github.io",
+  docsRepositoryBase:
+    "https://github.com/minhxuvi/minhxuvi.github.io/tree/main",
   footer: {
-    text: "Nextra Docs Template",
+    text: "Minh Mốc Meo",
+  },
+  useNextSeoProps() {
+    return {
+      titleTemplate: "%s – MocMeo",
+    };
   },
 };
 
