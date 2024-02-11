@@ -1,0 +1,14 @@
+{
+    "index": "Mốc Meo",
+    "ideas": "Ý tưởng",
+    "about": {
+        "title": "About",
+        "type": "page"
+    },
+    "contact": {
+        "title": "Contact ↗",
+        "type": "page",
+        "href": "https://fb.com/minhxuvi",
+        "newWindow": true
+    }
+}
