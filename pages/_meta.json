@@ -1,8 +1,8 @@
 {
   "index": "Mốc Meo",
-  "learn": "Học",
-  "linh-tinh": "Viết linh tinh",
   "projects": "Dự án",
+  "linh-tinh": "Viết linh tinh",
+  "learn": "Học",
   "about": {
     "title": "About",
     "type": "page"
