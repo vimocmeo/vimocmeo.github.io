@@ -16,7 +16,7 @@ I'm always open to collaborate on interesting projects! If you have an idea you 
 
 ## 📫 Contact
 
-You can contact me via minhxuvi@gmail.com or on [Linkedin](https://linkedin.com/in/minhxuvi). I'm always available for a chat!
+You can contact me via minh@xuvi.vn or on [Linkedin](https://linkedin.com/in/minhxuvi). I'm always available for a chat!
 
 ## 😄 Fun fact
 
