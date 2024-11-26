@@ -1,7 +1,7 @@
 {
   "name": "minhxuvi",
   "version": "0.0.1",
-  "description": "Đạp xe xuyên Việt",
+  "description": "Vi's blogs",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
